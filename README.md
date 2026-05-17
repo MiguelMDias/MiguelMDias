@@ -1,14 +1,14 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5656eb&section=header&reversal=true"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5656eb&section=header&reversal=true](https://capsule-render.vercel.app/api?type=waving&height=100&color=5656eb&section=header&reversal=true&fontAlign=50&fontAlignY=27"  />
 </div>
-# Miguel Mendonça Dias
+<h1> Miguel Mendonça Dias </h1>
 
-🚀 **Estudante 1º Semestre Engenharia de Software** 
+ **Estudante 1º Semestre Engenharia de Software** 
 **CEUB Brasilia** 
 
 Atualmente focado em front-end 
 
----
+
 
 ## 🌐 Minhas redes
 
@@ -22,24 +22,35 @@ Atualmente focado em front-end
   </a>
 </p>
 
----
 
 
-## 🛠️ Conhecimentos
 
-### Frontend
+###
 
-<img src='https://cdn-icons-png.flaticon.com/512/732/732190.png' width='40px'>
-<img src='https://cdn-icons-png.flaticon.com/512/5968/5968267.png' width='48px'>
-<img src='https://camo.githubusercontent.com/ef225cb3e0491089f49d8bc18b99b13143ed23e4ef7b5ddece6bec28f89644a0/68747470733a2f2f626c6f672e76616e646572736f6e67756964692e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f31312f6a73332e706e67'width='56px' >
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
 
-### Backend
+###
 
-<img src='https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png' width='40px'>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=5656eb&section=footer&reversal=true"  />
-</div>
+<img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5656eb&section=footer&reversal=true&fontAlign=50&fontAlignY=27"  />
 
 ---
 
