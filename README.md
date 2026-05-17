@@ -1,3 +1,6 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 # Miguel Mendonça Dias
 
 🚀 **Estudante 1º Semestre Engenharia de Software** 
@@ -34,9 +37,9 @@ Atualmente focado em front-end
 
 <img src='https://raw.githubusercontent.com/docker-library/docs/01c12653951b2fe592c1f93a13b4e289ada0e3a1/python/logo.png' width='40px'>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ---
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
 
