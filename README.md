@@ -13,13 +13,9 @@ Atualmente focado em front-end
 ## 🌐 Minhas redes
 
 <p align="left">
-  <a href="https://github.com/MiguelMDias">
-    <img src="https://img.shields.io/badge/GitHub-MiguelMDias-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://www.instagram.com/_diaxz._/">
-    <img src="https://img.shields.io/badge/Instagram-@_diaxz._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://github.com/MiguelMDias"><img src="https://img.shields.io/badge/GitHub-MiguelMDias-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.instagram.com/_diaxz._/"><img src="https://img.shields.io/badge/Instagram-@_diaxz._-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/miguelmdias0504/"><img src="https://img.shields.io/badge/linkedin-miguelmdias-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 
