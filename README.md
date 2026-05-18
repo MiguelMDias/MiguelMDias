@@ -18,12 +18,11 @@ Atualmente focado em front-end
 <a href="https://www.linkedin.com/in/miguelmdias0504/"><img src="https://img.shields.io/badge/linkedin-miguelmdias-blue?style=for-the-badge&logo=github"></a>
 </p>
 
-
-
-
 ###
 
 <div align="left">
+<h2>📖 Meus conhecimentos</h2>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
